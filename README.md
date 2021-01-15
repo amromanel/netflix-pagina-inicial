@@ -9,4 +9,4 @@ Objetivo:
 
 Projeto elaborado com base no  - [Bootcamp Html Web Developer da Digital Innovation One](https://web.digitalinnovation.one/track/html-web-developer) 
 
-![enter image dDesescription here](https://github.com/amromanel/netflix-pagina-inicial/blob/main/gif%20clone%20netflix.gif?raw=true)
+![enter image dDesescription here](https://github.com/amromanel/netflix-pagina-inicial/blob/master/gif%20clone%20netflix.gif?raw=true)
